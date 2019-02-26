@@ -16,6 +16,6 @@ public class MainActivity extends AppCompatActivity {
         Log.i(TAG, "Information Message");
         Log.wtf(TAG, "What a Terrible Failure Message");
         setContentView(R.layout.activity_main);
-        Toast.makeText(this, "David Z was here!", Toast.LENGTH_SHORT).show();
+        Toast.makeText(this, "David Z was here, branched copy!", Toast.LENGTH_SHORT).show();
     }
 }
