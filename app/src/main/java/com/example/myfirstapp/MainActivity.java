@@ -15,5 +15,6 @@ public class MainActivity extends AppCompatActivity {
         Log.i(TAG, "Information Message");
         Log.wtf(TAG, "What a Terrible Failure Message");
         setContentView(R.layout.activity_main);
+//        commment
     }
 }
